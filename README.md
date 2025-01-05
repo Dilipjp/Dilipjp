@@ -11,3 +11,7 @@ Name: Dilip Kumara
 Interests: [Coding, Technology, Problem-Solving]
 Learning: New Technologies
 Looking to Collaborate: Innovative Developments
+
+💻 I’m passionate about coding and love exploring cutting-edge technologies.
+🌱 Every day is a learning opportunity for me to grow as a developer.
+💡 My mission is to turn ideas into impactful solutions.
