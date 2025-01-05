@@ -2,8 +2,6 @@
 # 🌟 DILIP KUMARA!
 
 ![Header](https://via.placeholder.com/1200x400.png?text=Your+Custom+Banner+Here)  
-*(Replace this with a custom banner that reflects your personality or work!)*
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -21,7 +19,8 @@ Looking to Collaborate: Innovative Developments
 ---
 
 ## 🌐 Let's Connect!
-
+### 🌐 Website
+<a href="https://codezoon.com/" target="_blank"> <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"> </a>
 ### 📺 **YouTube**
 <a href="https://www.youtube.com/channel/UCiS5eg5cE628AtLytcZ4WDg" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
