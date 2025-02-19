@@ -1,7 +1,7 @@
 
 # 🌟 DILIP KUMARA!
 
-![Header](https://via.placeholder.com/1200x400.png?text=Your+Custom+Banner+Here)  
+![Header](https://dilipjp.github.io/bg.jpg)  
 ---
 
 ## 🙋‍♂️ About Me
