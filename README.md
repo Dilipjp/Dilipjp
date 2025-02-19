@@ -65,8 +65,10 @@ Tools: [Git, Docker, VS Code]
 ## ✨ Featured Projects
 | Project Name | Description | Demo |
 |--------------|-------------|------|
-| **Project 1** | A cool project that does XYZ | [🔗 View](#) |
-| **Project 2** | Another amazing project | [🔗 View](#) |
+| **NewsLine** | Android news app using Java, Firebase, News API, and Stripe. | [🔗 View](https://github.com/Dilipjp/NewsLine) |
+| **Connectify** | Social media apps like Instagram using Java and Firebase. | [🔗 View](https://github.com/Dilipjp/Connectify-android) |
+| **WebOtp** | Auto-read OTP from SMS for quick and secure completion in web apps or PWAs. | [🔗 View](https://github.com/Dilipjp/WebOtp) |
+| **Kitchen Magic** | ReactJS recipe search app for exploring new dishes. | [🔗 View](https://github.com/Dilipjp/recipe) |
 
 ---
 
